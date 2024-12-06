@@ -1,0 +1,8 @@
+product,retailer,inStock,quantity,address,lastUpdated
+Laptop Dell XPS 13,Best Buy,true,12,"123 Tech Street, Boston, MA",2024-03-15
+Laptop Dell XPS 13,Micro Center,true,8,"456 Computer Ave, Cambridge, MA",2024-03-15
+Laptop Dell XPS 13,Walmart,false,0,"789 Retail Road, Quincy, MA",2024-03-15
+iPhone 13 Pro,Apple Store,true,25,"100 Mall Drive, Boston, MA",2024-03-15
+iPhone 13 Pro,Best Buy,false,0,"123 Tech Street, Boston, MA",2024-03-15
+Samsung TV 55",Best Buy,true,5,"123 Tech Street, Boston, MA",2024-03-15
+Samsung TV 55",Target,true,3,"321 Shopping Lane, Medford, MA",2024-03-15 

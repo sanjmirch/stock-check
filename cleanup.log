@@ -1,0 +1,28 @@
+# Cleanup Log - 2024-12-06
+
+## Files Moved to bin/ (Redundant/Unused)
+1. counter.js - Not used in React application
+2. main.js - Replaced by src/main.jsx
+3. testdb.js - Development test file, not needed for production
+4. src/js/search.js - Functionality moved to React components
+
+## Files Kept (Required)
+1. src/server/server.js - Main Express server
+2. src/server/config/db.js - MongoDB configuration
+3. src/server/models/productModel.js - Database models
+4. src/server/utils/logger.js - Logging utility
+5. vite.config.js - Vite configuration
+6. package.json - Project dependencies
+7. .env - Environment configuration
+8. index.html - Main HTML entry
+9. src/main.jsx - React entry point
+10. src/App.jsx - Main React component
+11. src/components/* - React components
+12. src/pages/* - React page components
+13. src/services/* - API services
+14. src/styles/* - CSS styles
+
+## Actions Taken
+1. Created bin/ directory: 
+```
+mkdir -p bin 

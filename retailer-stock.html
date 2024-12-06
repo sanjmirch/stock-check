@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retailer Stock View</title>
+    <link rel="stylesheet" href="src/styles/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .retailer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            padding: 1.5rem;
+        }
+
+        .retailer-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .retailer-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .retailer-name {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .stock-status {
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .in-stock {
+            background-color: #e6f4ea;
+            color: #1e7e34;
+        }
+
+        .out-of-stock {
+            background-color: #fde7e9;
+            color: #dc3545;
+        }
+
+        .retailer-details {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .quantity {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .back-button {
+            margin: 1rem;
+            padding: 0.5rem 1rem;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #333;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .back-button:hover {
+            background-color: #e9ecef;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <header class="header">
+            <a href="index.html" class="back-button">
+                <i class="fas fa-arrow-left"></i> Back to Dashboard
+            </a>
+            <h1>Retailer Stock View</h1>
+        </header>
+
+        <div class="controls">
+            <div class="search-bar">
+                <i class="fas fa-search"></i>
+                <input type="text" placeholder="Search retailers...">
+            </div>
+            <div class="filter-controls">
+                <select class="filter-dropdown">
+                    <option value="all">All Retailers</option>
+                    <option value="in-stock">In Stock Only</option>
+                    <option value="out-of-stock">Out of Stock Only</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="retailer-grid" id="retailerGrid">
+            <!-- Retailer cards will be inserted here by JavaScript -->
+        </div>
+    </div>
+    <script type="module" src="src/js/retailerStock.js"></script>
+</body>
+</html> 

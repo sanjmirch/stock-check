@@ -1,0 +1,155 @@
+{"level":"error","message":"MongoDB connection error: Instance failed to start within 10000ms","stack":"Error: Instance failed to start within 10000ms\n    at Timeout.<anonymous> (/Users/sanjmirch/stock-checker/node_modules/mongodb-memory-server-core/lib/util/MongoInstance.js:149:29)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)","timestamp":"2024-12-06T10:48:25.455Z"}
+{"level":"info","message":"Sample products initialized","timestamp":"2024-12-06T10:48:26.178Z"}
+{"level":"info","message":"Sample shops initialized","timestamp":"2024-12-06T10:48:26.193Z"}
+{"level":"info","message":"Sample products initialized","timestamp":"2024-12-06T10:48:30.947Z"}
+{"level":"info","message":"Sample products initialized","timestamp":"2024-12-06T10:48:30.948Z"}
+{"level":"info","message":"Sample shops initialized","timestamp":"2024-12-06T10:48:30.970Z"}
+{"level":"info","message":"Sample shops initialized","timestamp":"2024-12-06T10:48:30.973Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:50:16.708Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:50:16.772Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:50:16.878Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:50:16.914Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:50:16.917Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:50:16.980Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:50:28.320Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:50:28.344Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:53:51.163Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:53:51.163Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:53:51.163Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:53:51.187Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:53:51.187Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:53:51.188Z"}
+{"level":"info","message":"Server running on http://localhost:4010","timestamp":"2024-12-06T10:53:51.189Z"}
+{"level":"error","message":"Port 4010 is already in use. Trying port 40101","timestamp":"2024-12-06T10:53:51.189Z"}
+{"level":"info","message":"Server running on http://localhost:4010","timestamp":"2024-12-06T10:53:51.189Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T10:53:56.961Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T10:53:56.996Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:00:21.254Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:00:21.254Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:00:21.254Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:00:21.254Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:00:21.280Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:00:21.281Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:00:21.281Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:00:21.281Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:00:21.282Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T11:00:21.282Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:00:21.283Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:52:41.459Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:52:41.458Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:52:41.459Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:52:41.459Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:52:41.481Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:52:41.481Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:52:41.481Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:52:41.481Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:52:41.482Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T11:52:41.482Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:52:41.482Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:08.389Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:08.390Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:08.418Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:08.424Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:59:08.421Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T11:59:08.426Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:59:08.426Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:08.497Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:08.498Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:08.517Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:08.517Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:12.310Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:12.331Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:59:12.332Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:12.323Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:12.324Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:12.341Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:12.342Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T11:59:12.342Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:59:12.343Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:12.339Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:12.470Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:16.456Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:16.456Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:16.458Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:16.477Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:16.479Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T11:59:16.462Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:59:16.479Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:16.481Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T11:59:16.480Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T11:59:16.480Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T11:59:16.483Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:00:31.987Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:00:32.018Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T12:00:32.021Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:00:32.010Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:00:32.017Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:00:32.035Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T12:00:32.037Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T12:00:32.037Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:00:32.040Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:00:32.026Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:00:32.045Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:03:38.774Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:03:38.771Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:03:38.772Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:03:38.796Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:03:38.773Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:03:38.797Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T12:03:38.798Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T12:03:38.798Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T12:03:38.799Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:03:38.804Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:03:38.805Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T12:50:41.013Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T12:50:41.061Z"}
+{"level":"info","message":"MongoDB connection closed","timestamp":"2024-12-06T15:18:10.227Z"}
+{"level":"info","message":"MongoDB connection closed","timestamp":"2024-12-06T15:18:17.546Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:20:19.410Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:20:19.429Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T15:20:19.431Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:25:01.584Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:25:01.585Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:25:01.585Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:25:01.584Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:25:01.605Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:25:01.606Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:25:01.606Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:25:01.607Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T15:25:01.607Z"}
+{"level":"error","message":"Port 4020 is already in use. Trying port 40201","timestamp":"2024-12-06T15:25:01.607Z"}
+{"level":"info","message":"Server running on http://localhost:4020","timestamp":"2024-12-06T15:25:01.607Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:27:09.990Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:27:10.023Z"}
+{"level":"info","message":"Server running on http://localhost:4022","timestamp":"2024-12-06T15:27:10.055Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:35:07.970Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:35:07.996Z"}
+{"level":"error","message":"Port 4022 is already in use. Trying port 40221","timestamp":"2024-12-06T15:35:07.999Z"}
+{"level":"info","message":"Server running on http://localhost:4022","timestamp":"2024-12-06T15:35:08.000Z"}
+{"level":"info","message":"MongoDB connection closed","timestamp":"2024-12-06T15:38:22.179Z"}
+{"level":"info","message":"MongoDB connection closed","timestamp":"2024-12-06T15:38:38.443Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T15:48:58.414Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T15:48:58.431Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.461Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.461Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.457Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.461Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.481Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.459Z"}
+{"level":"info","message":"Server running on http://localhost:4030","timestamp":"2024-12-06T16:06:54.482Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.464Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.485Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.485Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.486Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.486Z"}
+{"level":"error","message":"Port 4030 is already in use. Trying port 40301","timestamp":"2024-12-06T16:06:54.486Z"}
+{"level":"info","message":"Server running on http://localhost:4030","timestamp":"2024-12-06T16:06:54.487Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.491Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T16:06:54.491Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T16:06:54.518Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T17:36:57.069Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T17:36:57.086Z"}
+{"level":"info","message":"Server running on http://localhost:4030","timestamp":"2024-12-06T17:36:57.087Z"}
+{"level":"info","message":"Connecting to MongoDB at: mongodb://localhost:27017/stock-checker","timestamp":"2024-12-06T17:51:34.650Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-06T17:51:34.668Z"}
+{"level":"info","message":"Server running on http://localhost:4030","timestamp":"2024-12-06T17:51:34.669Z"}

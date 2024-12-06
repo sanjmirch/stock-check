@@ -1,1 +1,3 @@
-# stock-check
+# stock-checker
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sanjmirch/stock-checker)

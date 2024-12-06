@@ -1,0 +1,60 @@
+.debug-panel {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #1a1f2e;
+    color: #fff;
+    padding: 1rem;
+    font-family: monospace;
+    font-size: 0.9rem;
+    z-index: 1000;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.debug-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.debug-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.debug-section {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-y: auto;
+    max-height: 150px;
+}
+
+.debug-log {
+    color: #4CAF50;
+}
+
+.debug-error {
+    color: #f44336;
+}
+
+.debug-warning {
+    color: #ff9800;
+}
+
+.error-details {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    padding-left: 1rem;
+}
+
+pre {
+    white-space: pre-wrap;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+} 
